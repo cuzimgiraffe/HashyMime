@@ -1,6 +1,4 @@
-"""Mehrsprachigkeits-Modul (i18n) fuer HashyMime.
-Unterstuetzt Deutsch, Englisch, Franzoesisch und Spanisch (ohne Emojis).
-"""
+
 
 LANGUAGES = {
     "Deutsch": "de",
