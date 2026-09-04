@@ -127,7 +127,7 @@ HashyMime is built in **Python 3.10+** utilizing the following libraries:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/HashyMime.git
+git clone [https://github.com/your-username/HashyMime.git](https://github.com/cuzimgiraffe/HashyMime.git)
 cd HashyMime
 ```
 
